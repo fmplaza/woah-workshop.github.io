@@ -18,3 +18,20 @@ The topics covered by WOAH include, but are not limited to:
 - Social, legal, and ethical implications of detecting, monitoring and moderating online abuse
 
 In addition, we invite submissions related to the theme for this seventh edition of WOAH, which will be **subjectivity and disagreement in abusive language data**. Hate speech and other forms of abuse are highly subjective. By choosing this theme, we want to encourage submissions that analyse, address or make use of this subjectivity. To match the theme and complement thematic submissions, we have invited a strong lineup of relevant speakers.
+
+## Latest News
+TBA.
+
+## Organizers
+
+- <a href="https://yilingchung.github.io/">Yi-Ling Chung</a>, The Alan Turing Institute
+- <p><a href="https://aidamd.github.io/">Aida Mostafazadeh Davani</a>, University of Southern California</p>
+- <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
+- <p><a href="https://www.oii.ox.ac.uk/people/profiles/paul-rottger/">Paul Röttger</a>, University of Oxford</p>
+- <p><a href="https://zeeraktalat.github.io/">Zeerak Talat</a>, Digital Democracies Institute, Simon Fraser University</p>
+
+## Sponsors
+TBA. If you or your organisation would like to support WOAH, please get in touch!
+
+## Contact
+If you have any questions, please let us know at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
