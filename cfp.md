@@ -11,7 +11,7 @@ rank: 1
 
 *Camera-ready papers due*: 	Jun 2, 2023
 
-*Workshop*: 			July 13 or 14, 2023
+*Workshop*: 			July 13, 2023
 
 # Overview
 
