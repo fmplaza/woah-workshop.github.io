@@ -24,7 +24,7 @@ TBA.
 
 ## Organizers
 
-- <a href="https://yilingchung.github.io/">Yi-Ling Chung</a>, The Alan Turing Institute
+- <p><a href="https://yilingchung.github.io/">Yi-Ling Chung</a>, The Alan Turing Institute</p>
 - <p><a href="https://aidamd.github.io/">Aida Mostafazadeh Davani</a>, University of Southern California</p>
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
 - <p><a href="https://www.oii.ox.ac.uk/people/profiles/paul-rottger/">Paul Röttger</a>, University of Oxford</p>
