@@ -7,6 +7,8 @@ rank: 1
 # Important Dates
 *Submission due*: 		May 2, 2023
 
+*ARR reviewed submission due*: May 22, 2023
+
 *Notification of acceptance*:       May 26, 2023
 
 *Camera-ready papers due*: 	Jun 2, 2023
