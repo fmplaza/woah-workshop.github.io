@@ -8,7 +8,7 @@ rank: 2
 
 * [Yi-Ling Chung](https://yilingchung.github.io/), The Alan Turing Institute
 
-* [Aida Mostafazadeh Davani](https://aidamd.github.io/), University of Southern California
+* [Aida Mostafazadeh Davani](https://aidamd.github.io/), Google Research
 
 * [Debora Nozza](https://deboranozza.com/), Bocconi University
 
