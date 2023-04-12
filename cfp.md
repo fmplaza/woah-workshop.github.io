@@ -42,7 +42,9 @@ s
 # Format and styling
 
 All submissions must use the official ACL 2023 two-column format, using the supplied official style files. The templates can be downloaded in [Style Files and Formatting](https://2023.aclweb.org/calls/style_and_formatting/). Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. All submissions should adhere to the [workshop policies](https://www.workshopononlineabuse.com/policies.html).
+
 All submissions, except for civil society reports, must be fully anonymised. Self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...".
+
 Following the ACL 2023 guidelines, we believe that it is also important to discuss the limitations of your work, in addition to its strengths. The “Limitations” section will appear at the end of the paper, after the discussion/conclusions section and before the references, and will not count towards the page limit.
 
 # Authorship
