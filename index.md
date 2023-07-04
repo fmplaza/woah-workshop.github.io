@@ -6,6 +6,9 @@ The goal of The Workshop on Online Abuse and Harms (WOAH) is to advance research
 
 WOAH 7 is colocated with the [61st Annual Meeting of the Association for Computational Linguistics (ACL’23)](https://2023.aclweb.org/) which will take place in Toronto, Canada from July 9th to July 14th, 2023.
 
+## Latest News
+- The [Workshop Program Schedule](https://www.workshopononlineabuse.com/programme.html) has been published!
+
 ## Background
 
 Digital technologies have brought many benefits for society, transforming how people connect, communicate and interact with each other. However, they have also enabled abusive and harmful content such as hate speech and harassment to reach large audiences, and for their negative effects to be amplified. The sheer amount of content shared online means that abuse and harm can only be tackled at scale with the help of computational tools. However, detecting and moderating online abuse and harms is a difficult task, with many technical, social, legal and ethical challenges.
@@ -19,8 +22,7 @@ The topics covered by WOAH include, but are not limited to:
 
 In addition, we invite submissions related to the theme for this seventh edition of WOAH, which will be **subjectivity and disagreement in abusive language data**. Hate speech and other forms of abuse are highly subjective. By choosing this theme, we want to encourage submissions that analyse, address or make use of this subjectivity. To match the theme and complement thematic submissions, we have invited a strong lineup of relevant speakers.
 
-## Latest News
-TBA.
+
 
 ## Organizers
 
