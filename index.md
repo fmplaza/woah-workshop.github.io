@@ -33,7 +33,12 @@ In addition, we invite submissions related to the theme for this seventh edition
 - <p><a href="https://zeeraktalat.github.io/">Zeerak Talat</a>, Digital Democracies Institute, Simon Fraser University</p>
 
 ## Sponsors
-TBA. If you or your organisation would like to support WOAH, please get in touch!
+WOAH is grateful for support from the following sponsors:
+
+**Gold Tier**
+
+**Diamond Tier**
+
 
 ## Contact
 If you have any questions, please let us know at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
