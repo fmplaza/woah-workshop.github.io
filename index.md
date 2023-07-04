@@ -7,7 +7,7 @@ The goal of The Workshop on Online Abuse and Harms (WOAH) is to advance research
 WOAH 7 is colocated with the [61st Annual Meeting of the Association for Computational Linguistics (ACL’23)](https://2023.aclweb.org/) which will take place in Toronto, Canada from July 9th to July 14th, 2023.
 
 ## Latest News
-- The [Workshop Program Schedule](https://www.workshopononlineabuse.com/programme.html) has been published!
+- The [Workshop Program](https://www.workshopononlineabuse.com/programme.html) has been published!
 
 ## Background
 
