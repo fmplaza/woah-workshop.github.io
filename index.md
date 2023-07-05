@@ -41,7 +41,7 @@ WOAH is grateful for support from the following sponsors:
 
 **Gold Tier**
 
-<img src="assets/img/gold.png"  width="50%" height="50%">
+<img src="assets/img/gold.png"  width="40%" height="40%">
 
 
 ## Contact
