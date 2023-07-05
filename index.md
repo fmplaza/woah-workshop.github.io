@@ -35,13 +35,14 @@ In addition, we invite submissions related to the theme for this seventh edition
 ## Sponsors
 WOAH is grateful for support from the following sponsors:
 
+**Diamond Tier**
+
+<img src="assets/img/diamond.png"  width="80%" height="80%">
+
 **Gold Tier**
 
 <img src="assets/img/gold.png"  width="50%" height="50%">
 
-**Diamond Tier**
-
-<img src="assets/img/diamond.png"  width="50%" height="50%">
 
 ## Contact
 If you have any questions, please let us know at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
