@@ -37,11 +37,11 @@ WOAH is grateful for support from the following sponsors:
 
 **Gold Tier**
 
-<img src="assets/img/gold.png"  width="30%" height="30%">
+<img src="assets/img/gold.png"  width="50%" height="50%">
 
 **Diamond Tier**
 
-<img src="assets/img/diamond.png"  width="30%" height="30%">
+<img src="assets/img/diamond.png"  width="50%" height="50%">
 
 ## Contact
 If you have any questions, please let us know at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
