@@ -23,7 +23,7 @@ Michael Yoder, Chloe Perry, David Brown, Kathleen Carley and Meredith Pruden
 Artem Chernodub, Serhii Yavnyi, Oleksii Sliusarenko, Jade Razzaghi, Yichen Mo and Knar Hovakimyan
 
 - *Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech*<br>
-Flor Miriam Plaza-del-arco, Debora Nozza and Dirk Hovy
+Flor Miriam Plaza-del-Arco, Debora Nozza and Dirk Hovy
 
 - *Benchmarking Offensive and Abusive Language in Dutch Tweets*<br>
 Tommaso Caselli and Hylke Van Der Veen
@@ -52,7 +52,7 @@ Janis Goldzycher, Moritz Preisig, Chantal Amrhein and Gerold Schneider
 - *Factoring Hate Speech: A New Annotation Framework to Study Hate Speech in Social Media*<br>
 Gal Ron, Effi Levi, Odelia Oshri and Shaul Shenhav
 
--*Toward Disambiguating the Definitions of Abusive, Offensive, Toxic, and Uncivil Comments*<br>
+- *Toward Disambiguating the Definitions of Abusive, Offensive, Toxic, and Uncivil Comments*<br>
 Pia Pachinger, Julia Neidhardt, Allan Hanbury and Anna Maria Planitzer
 
 - *Harmful Language Datasets: An Assessment of Robustness*<br>
