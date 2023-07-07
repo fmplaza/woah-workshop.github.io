@@ -12,7 +12,7 @@ rank: 2
 
 * [Debora Nozza](https://deboranozza.com/), Bocconi University
 
-* [Paul Röttger](https://www.oii.ox.ac.uk/people/profiles/paul-rottger/), Bocconi University
+* [Paul Röttger](https://paulrottger.com/), Bocconi University
 
 * [Zeerak Talat](https://zeeraktalat.github.io/), Digital Democracies Institute, Simon Fraser University
 

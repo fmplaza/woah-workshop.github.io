@@ -26,10 +26,10 @@ In addition, we invite submissions related to the theme for this seventh edition
 
 ## Organizers
 
+- <p><a href="https://paulrottger.com/">Paul Röttger</a>, Bocconi University</p>
 - <p><a href="https://yilingchung.github.io/">Yi-Ling Chung</a>, The Alan Turing Institute</p>
 - <p><a href="https://aidamd.github.io/">Aida Mostafazadeh Davani</a>, Google Research</p>
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
-- <p><a href="https://www.oii.ox.ac.uk/people/profiles/paul-rottger/">Paul Röttger</a>, University of Oxford</p>
 - <p><a href="https://zeeraktalat.github.io/">Zeerak Talat</a>, Digital Democracies Institute, Simon Fraser University</p>
 
 ## Sponsors
