@@ -14,7 +14,7 @@ After the workshop, all attendees are invited to join for workshop drinks.
 
 For more details, read on below!
 
-</br>
+<br/><br/>
 
 
 ## Invited Speakers
@@ -29,7 +29,7 @@ For more details, read on below!
 
 [**Maarten Sap**](https://maartensap.com/) is an assistant professor at CMU's LTI department, and a part-time research scientist at the Allen Institute for AI (AI2). His research focuses on endowing NLP systems with social intelligence and social commonsense, and understanding social inequality and bias in language.
 
-</br>
+<br/><br/>
 
 
 ## Schedule
@@ -58,13 +58,13 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless in
 
 15:45 - 16:15:  **Lauren Klein**: "Historical Data, Real-World Harms"
 
-16:15 - 17:15:  **Panel Discussion** on the special theme with all invited speakers
+16:15 - 17:15:  **Panel Discussion** with all invited speakers
 
 17:15 - 17:25:  Closing Remarks
 
 From 17:30: **Workshop Drinks**, External Location TBD
 
-</br>
+<br/><br/>
 
 
 ## Organisers
@@ -75,7 +75,7 @@ From 17:30: **Workshop Drinks**, External Location TBD
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
 - <p><a href="https://zeeraktalat.github.io/">Zeerak Talat</a>, Digital Democracies Institute, Simon Fraser University</p>
 
-</br>
+<br/><br/>
 
 
 ## Sponsors
@@ -89,7 +89,8 @@ WOAH is grateful for support from the following sponsors:
 
 <img src="assets/img/gold.png"  width="40%" height="40%">
 
-</br>
+<br/><br/>
+
 
 ## Contact
 If you have any questions, please get in touch at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
