@@ -13,20 +13,23 @@ There will also be a poster session, lightning talks from remote attendants, out
 After the workshop, all attendees are invited to join for workshop drinks.
 
 For more details, read on below!
-<br/><br/>
+
+</br>
+
 
 ## Invited Speakers
 
-[**Su Lin Blodgett**](https://sblodgett.github.io/) is a senior researcher in the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group at Microsoft Research Montréal.
+[**Su Lin Blodgett**](https://sblodgett.github.io/) is a Senior Researcher in the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group at Microsoft Research Montréal. She is broadly interested in examining the social and ethical implications of natural language processing technologies.
 
-[**Dirk Hovy**]() is ...
+[**Dirk Hovy**](https://cs.unibocconi.eu/people/dirk-hovy) is an Associate Professor at Bocconi University in Milan, Italy. He is interested in modeling what language can tell us about society, and what computers can tell us about language. He also works on ethics and fairness in NLP and AI.
 
-[**Lauren Klein**]() is ...
+[**Lauren Klein**](http://lklein.com/) is a Winship Distinguished Research Professor and Associate Professor in the Departments of Quantitative Theory and Methods and English at Emory University. She works at the intersection of data, AI, and the humanities, with an emphasis on questions of gender and race.
 
-[**Vinodkumar Prabhakaran**]() is ...
+[**Vinodkumar Prabhakaran**](https://www.cs.stanford.edu/~vinod/) is a Senior Research Scientist at Google Research, and holds a Research Affiliate position at the Stanford SPARQ institute. He works on employing NLP techniques for socially beneficial applications, as well as investigating (and mitigating) ethical and fairness failures in NLP models.
 
-[**Maarten Sap**]() is ...
-<br/><br/>
+[**Maarten Sap**](https://maartensap.com/) is an assistant professor at CMU's LTI department, and a part-time research scientist at the Allen Institute for AI (AI2). His research focuses on endowing NLP systems with social intelligence and social commonsense, and understanding social inequality and bias in language.
+
+</br>
 
 
 ## Schedule
@@ -60,7 +63,8 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless in
 17:15 - 17:25:  Closing Remarks
 
 From 17:30: **Workshop Drinks**, External Location TBD
-<br/><br/>
+
+</br>
 
 
 ## Organisers
@@ -70,7 +74,9 @@ From 17:30: **Workshop Drinks**, External Location TBD
 - <p><a href="https://aidamd.github.io/">Aida Mostafazadeh Davani</a>, Google Research</p>
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
 - <p><a href="https://zeeraktalat.github.io/">Zeerak Talat</a>, Digital Democracies Institute, Simon Fraser University</p>
-<br/><br/>
+
+</br>
+
 
 ## Sponsors
 WOAH is grateful for support from the following sponsors:
@@ -82,7 +88,8 @@ WOAH is grateful for support from the following sponsors:
 **Gold Tier**
 
 <img src="assets/img/gold.png"  width="40%" height="40%">
-<br/><br/>
+
+</br>
 
 ## Contact
 If you have any questions, please get in touch at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
