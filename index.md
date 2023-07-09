@@ -40,7 +40,7 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless in
 
 09:15 - 09:45:  **Dirk Hovy**: "Whose Truth Is It Anyway?"
 
-09:45 - 10:15:  **Vinodkumar Prabhakaran**:
+09:45 - 10:15:  **Vinodkumar Prabhakaran**: Culture as a Lens on Offensive Language
 
 10:15 - 11:45:  **Poster Session** in **Room Y** (see [here](https://www.workshopononlineabuse.com/programme.html) for details)
 
