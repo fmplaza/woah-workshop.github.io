@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Workshop schedule
+title: Detailed Schedule
 rank: 4
 ---
 
 ## <span style="color:#267CB9"> Schedule </span>
 
-Thursday, July 13, 2023 (Toronto time)
+Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless indicated otherwise.
 
-09:00 - 09:15 Opening Remarks
+09:00 - 09:15:  Opening Remarks
 
-09:15 - 09:45 Invited Talk 1 - Dirk Hovy
+09:15 - 09:45:  **Dirk Hovy**: "Whose Truth Is It Anyway?"
 
-09:45 - 10:15 Invited Talk 2 - Vinodkumar Prabhakaran
+09:45 - 10:15:  **Vinodkumar Prabhakaran**:
 
-10:15 - 11:45 In-Person Poster Session
+10:15 - 11:45:  **Poster Session** in **Room Y**
 
 - *Identity Construction in a Misogynist Incels Forum*<br>
 Michael Yoder, Chloe Perry, David Brown, Kathleen Carley and Meredith Pruden
@@ -27,12 +27,6 @@ Flor Miriam Plaza-del-Arco, Debora Nozza and Dirk Hovy
 
 - *Benchmarking Offensive and Abusive Language in Dutch Tweets*<br>
 Tommaso Caselli and Hylke Van Der Veen
-
-- *Cross-Platform and Cross-Domain Abusive Language Detection with Supervised Contrastive Learning*<br>
-Md Tawkat Islam Khondaker, Muhammad Abdul-mageed and Laks Lakshmanan, V.s.
-
-- *Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor*<br>
-Svetlana Kiritchenko, Georgina Curto Rex, Isar Nejadgholi and Kathleen C Fraser
 
 - *Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers*<br>
 Isar Nejadgholi, Svetlana Kiritchenko, Kathleen C. Fraser and Esma Balkir
@@ -94,15 +88,24 @@ Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas Davidson, Jena D. Hwang, Swabha Swa
 - *[Findings] Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models*<br>
 Eddie L. Ungless, Bjorn Ross and Anne Lauscher
 
-11:45 - 12:15 Invited Talk 3 - Maarten Sap
 
-12:15 - 13:30 Lunch Break
+11:45 - 12:15:  **Maarten Sap**: "The Pivotal Role of Social Context in Toxic Language Detection"
 
-13:30 - 14:00 Invited Talk 4 - Su Lin Blodgett
+12:15 - 13:30:  Lunch Break
 
-14:00 - 14:30 Best Paper Talks (General & Theme)
+13:30 - 14:00:  **Su Lin Blodgett**:
 
-14:30 - 15:00 Lightning Talks for Remote Attendants
+14:00 - 14:30:  **Outstanding Paper Talks**
+
+- *Cross-Platform and Cross-Domain Abusive Language Detection with Supervised Contrastive Learning*<br>
+Md Tawkat Islam Khondaker, Muhammad Abdul-mageed and Laks Lakshmanan, V.s.
+
+- *Aporophobia: An Overlooked Type of Toxic Language Targeting the Poor*<br>
+Svetlana Kiritchenko, Georgina Curto Rex, Isar Nejadgholi and Kathleen C Fraser
+
+
+14:30 - 15:00:  **Lightning Talks** for remote attendants
+
 - *Towards Safer Communities: Detecting Aggression and Offensive Language in Code-Mixed Tweets to Combat Cyberbullying*<br>
 Nazia Nafis, Diptesh Kanojia, Naveen Saini and Rudra Murthy
 
@@ -127,10 +130,13 @@ Davide Locatelli, Greta Damo and Debora Nozza
 - *[Findings] The State of Profanity Obfuscation in Natural Language Processing Scientific Publications*<br>
 Debora Nozza and Dirk Hovy
 
-15:00 - 15:45 Coffee Break
 
-15:45 - 16:15 Invited Talk 5 - Lauren Klein
+15:00 - 15:45:  Coffee Break
 
-16:15 - 17:15 Panel Discussion
+15:45 - 16:15:  **Lauren Klein**: "Historical Data, Real-World Harms"
 
-17:15 - 17:25 Closing Remarks
+16:15 - 17:15:  **Panel Discussion** on the special theme with all invited speakers
+
+17:15 - 17:25:  Closing Remarks
+
+From 17:30: **Workshop Drinks**, External Location TBD

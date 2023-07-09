@@ -2,35 +2,73 @@
 layout: default
 ---
 
-The goal of The Workshop on Online Abuse and Harms (WOAH) is to advance research that develops, interrogates and applies computational methods for detecting, classifying and modelling online abuse.
+## Overview
 
-WOAH 7 is colocated with the [61st Annual Meeting of the Association for Computational Linguistics (ACL’23)](https://2023.aclweb.org/) which will take place in Toronto, Canada from July 9th to July 14th, 2023.
+The 7th Workshop on Online Abuse and Harms (WOAH) is taking place on **Thursday, July 13th 2023**, as part of [ACL 2023](https://2023.aclweb.org/) in Toronto.
+Join us in person **from 9am in Room X** or watch online using [this link]().
 
-## Latest News
-- The [Workshop Program](https://www.workshopononlineabuse.com/programme.html) has been published!
+The special theme for this year is **subjectivity and disagreement in abusive language data**.
+We have a great line-up of invited speakers to discuss the theme.
+There will also be a poster session, lightning talks from remote attendants, outstanding paper awards and a panel discussion.
+After the workshop, all attendees are invited to join for workshop drinks.
 
-## Background
-
-Digital technologies have brought many benefits for society, transforming how people connect, communicate and interact with each other. However, they have also enabled abusive and harmful content such as hate speech and harassment to reach large audiences, and for their negative effects to be amplified. The sheer amount of content shared online means that abuse and harm can only be tackled at scale with the help of computational tools. However, detecting and moderating online abuse and harms is a difficult task, with many technical, social, legal and ethical challenges.
-The Workshop on Online Abuse and Harms (WOAH) invites paper submissions from a wide range of fields, including natural language processing, machine learning, computational social sciences, law, politics, psychology, sociology and cultural studies. We explicitly encourage interdisciplinary submissions, technical as well as non-technical submissions, and submissions that focus on under-resourced languages. We also invite non-archival submissions and civil society reports.
-The topics covered by WOAH include, but are not limited to:
-- New models or methods for detecting abusive and harmful online content;
-- Biases and limitations of existing detection models or datasets for abusive and harmful online content, particularly those in commercial use;
-- New datasets and taxonomies for online abuse and harms;
-- Dynamics of online abuse and harms, as well as their impact on different communities
-- Social, legal, and ethical implications of detecting, monitoring and moderating online abuse
-
-In addition, we invite submissions related to the theme for this seventh edition of WOAH, which will be **subjectivity and disagreement in abusive language data**. Hate speech and other forms of abuse are highly subjective. By choosing this theme, we want to encourage submissions that analyse, address or make use of this subjectivity. To match the theme and complement thematic submissions, we have invited a strong lineup of relevant speakers.
+For more details, read on below!
 
 
+## Invited Speakers
 
-## Organizers
+[**Su Lin Blodgett**]() is ...
+
+[**Dirk Hovy**]() is ...
+
+[**Lauren Klein**]() is ...
+
+[**Vinodkumar Prabhakaran**]() is ...
+
+[**Maarten Sap**]() is ...
+
+
+## Schedule
+
+Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless indicated otherwise.
+
+09:00 - 09:15:  Opening Remarks
+
+09:15 - 09:45:  **Dirk Hovy**: "Whose Truth Is It Anyway?"
+
+09:45 - 10:15:  **Vinodkumar Prabhakaran**:
+
+10:15 - 11:45:  **Poster Session** in **Room Y** (see [here](https://www.workshopononlineabuse.com/programme.html) for details)
+
+11:45 - 12:15:  **Maarten Sap**: "The Pivotal Role of Social Context in Toxic Language Detection"
+
+12:15 - 13:30:  Lunch Break
+
+13:30 - 14:00:  **Su Lin Blodgett**:
+
+14:00 - 14:30:  **Outstanding Paper Talks** (see [here](https://www.workshopononlineabuse.com/programme.html) for details)
+
+14:30 - 15:00:  **Lightning Talks** for remote attendants (see [here](https://www.workshopononlineabuse.com/programme.html) for details)
+
+15:00 - 15:45:  Coffee Break
+
+15:45 - 16:15:  **Lauren Klein**: "Historical Data, Real-World Harms"
+
+16:15 - 17:15:  **Panel Discussion** on the special theme with all invited speakers
+
+17:15 - 17:25:  Closing Remarks
+
+From 17:30: **Workshop Drinks**, External Location TBD
+
+
+## Organisers
 
 - <p><a href="https://paulrottger.com/">Paul Röttger</a>, Bocconi University</p>
 - <p><a href="https://yilingchung.github.io/">Yi-Ling Chung</a>, The Alan Turing Institute</p>
 - <p><a href="https://aidamd.github.io/">Aida Mostafazadeh Davani</a>, Google Research</p>
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
 - <p><a href="https://zeeraktalat.github.io/">Zeerak Talat</a>, Digital Democracies Institute, Simon Fraser University</p>
+
 
 ## Sponsors
 WOAH is grateful for support from the following sponsors:
@@ -45,4 +83,4 @@ WOAH is grateful for support from the following sponsors:
 
 
 ## Contact
-If you have any questions, please let us know at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
+If you have any questions, please get in touch at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
