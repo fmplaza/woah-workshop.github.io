@@ -13,11 +13,11 @@ There will also be a poster session, lightning talks from remote attendants, out
 After the workshop, all attendees are invited to join for workshop drinks.
 
 For more details, read on below!
-
+<br/><br/>
 
 ## Invited Speakers
 
-[**Su Lin Blodgett**]() is ...
+[**Su Lin Blodgett**](https://sblodgett.github.io/) is a senior researcher in the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group at Microsoft Research Montréal.
 
 [**Dirk Hovy**]() is ...
 
@@ -26,6 +26,7 @@ For more details, read on below!
 [**Vinodkumar Prabhakaran**]() is ...
 
 [**Maarten Sap**]() is ...
+<br/><br/>
 
 
 ## Schedule
@@ -59,6 +60,7 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless in
 17:15 - 17:25:  Closing Remarks
 
 From 17:30: **Workshop Drinks**, External Location TBD
+<br/><br/>
 
 
 ## Organisers
@@ -68,7 +70,7 @@ From 17:30: **Workshop Drinks**, External Location TBD
 - <p><a href="https://aidamd.github.io/">Aida Mostafazadeh Davani</a>, Google Research</p>
 - <p><a href="https://deboranozza.com/">Debora Nozza</a>, Bocconi University</p>
 - <p><a href="https://zeeraktalat.github.io/">Zeerak Talat</a>, Digital Democracies Institute, Simon Fraser University</p>
-
+<br/><br/>
 
 ## Sponsors
 WOAH is grateful for support from the following sponsors:
@@ -80,7 +82,7 @@ WOAH is grateful for support from the following sponsors:
 **Gold Tier**
 
 <img src="assets/img/gold.png"  width="40%" height="40%">
-
+<br/><br/>
 
 ## Contact
 If you have any questions, please get in touch at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
