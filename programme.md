@@ -70,14 +70,8 @@ Miyoung Ko, Ingyu Seong, Hwaran Lee, Joonsuk Park, Minsuk Chang and Minjoon Seo
 - *[Findings] Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree*<br>
 Connor T Baumler, Anna Sotnikova and Hal Daumé III
 
-- *[Findings] Playing the Part of the Sharp Bully: Generating Adversarial Examples for Implicit Hate Speech Detection*<br>
-Nicolas Benjamin Ocampo, Elena Cabrio and Serena Villata
-
 - *[Findings] Disagreement Matters: Preserving Label Diversity by Jointly Modeling Item and Annotator Label Distributions with DisCo*<br>
 Tharindu Cyril Weerasooriya, Alexander Ororbia, Raj B Bhensadadia, Ashiqur KhudaBukhsh and Christopher Homan
-
-- *[Findings] It’s not Sexually Suggestive; It’s Educative | Separating Sex Education from Suggestive Content on TikTok videos*<br>
-Enfa Rose George and Mihai Surdeanu
 
 - *[Findings] Debiasing should be Good and Bad*<br>
 Robert A. Morabito, Jad Kabbara and Ali Emami
@@ -130,6 +124,11 @@ Davide Locatelli, Greta Damo and Debora Nozza
 - *[Findings] The State of Profanity Obfuscation in Natural Language Processing Scientific Publications*<br>
 Debora Nozza and Dirk Hovy
 
+- *[Findings] It’s not Sexually Suggestive; It’s Educative | Separating Sex Education from Suggestive Content on TikTok videos*<br>
+Enfa Rose George and Mihai Surdeanu
+
+- *[Findings] Playing the Part of the Sharp Bully: Generating Adversarial Examples for Implicit Hate Speech Detection*<br>
+Nicolas Benjamin Ocampo, Elena Cabrio and Serena Villata
 
 15:00 - 15:45:  Coffee Break
 
