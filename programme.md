@@ -14,7 +14,7 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless in
 
 09:45 - 10:15:  **Vinodkumar Prabhakaran**:
 
-10:15 - 11:45:  **Poster Session** in **Room Y**
+10:15 - 11:45:  **Poster Session** in the **Frontenac Ballroom** 
 
 - *Identity Construction in a Misogynist Incels Forum*<br>
 Michael Yoder, Chloe Perry, David Brown, Kathleen Carley and Meredith Pruden
@@ -138,4 +138,4 @@ Nicolas Benjamin Ocampo, Elena Cabrio and Serena Villata
 
 17:15 - 17:25:  Closing Remarks
 
-From 17:30: **Workshop Drinks**, External Location TBD
+From 17:30: **Workshop Drinks**, External Location TBA at the workshop

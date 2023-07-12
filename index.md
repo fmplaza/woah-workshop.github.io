@@ -42,7 +42,7 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Pier 7 & 8** unles
 
 09:45 - 10:15:  **Vinodkumar Prabhakaran**: Culture as a Lens on Offensive Language
 
-10:15 - 11:45:  **Poster Session** in **Room TBD** (see [here](https://www.workshopononlineabuse.com/programme.html) for details)
+10:15 - 11:45:  **Poster Session** in the **Frontenac Ballroom** (see [here](https://www.workshopononlineabuse.com/programme.html) for details)
 
 11:45 - 12:15:  **Maarten Sap**: "The Pivotal Role of Social Context in Toxic Language Detection"
 
@@ -54,15 +54,15 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Pier 7 & 8** unles
 
 14:30 - 15:00:  **Lightning Talks** for remote attendants (see [here](https://www.workshopononlineabuse.com/programme.html) for details)
 
-15:00 - 15:45:  Coffee Break
+15:00 - 15:30:  **Lauren Klein**: "Historical Data, Real-World Harms"
 
-15:45 - 16:15:  **Lauren Klein**: "Historical Data, Real-World Harms"
+15:30 - 16:15:  Coffee Break
 
 16:15 - 17:15:  **Panel Discussion** with all invited speakers
 
 17:15 - 17:25:  Closing Remarks
 
-From 17:30: **Workshop Drinks**, External Location TBD
+From 17:30: **Workshop Drinks**, location TBA
 
 <br/><br/>
 
