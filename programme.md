@@ -130,9 +130,9 @@ Enfa Rose George and Mihai Surdeanu
 - *[Findings] Playing the Part of the Sharp Bully: Generating Adversarial Examples for Implicit Hate Speech Detection*<br>
 Nicolas Benjamin Ocampo, Elena Cabrio and Serena Villata
 
-15:00 - 15:45:  Coffee Break
+15:00 - 15:30:  **Lauren Klein**: "Historical Data, Real-World Harms"
 
-15:45 - 16:15:  **Lauren Klein**: "Historical Data, Real-World Harms"
+15:30 - 16:15:  Coffee Break
 
 16:15 - 17:15:  **Panel Discussion** on the special theme with all invited speakers
 
