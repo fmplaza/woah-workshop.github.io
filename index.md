@@ -5,7 +5,7 @@ layout: default
 ## Overview
 
 The 7th Workshop on Online Abuse and Harms (WOAH) is taking place on **Thursday, July 13th 2023**, as part of [ACL 2023](https://2023.aclweb.org/) in Toronto.
-Join us in person **from 9am in Pier 7 & 8** or watch online using [this link]().
+Join us in person **from 9am in Pier 7 & 8** or watch online using [this link](https://us06web.zoom.us/j/82421871832?pwd=RkZXL2djUHNWY3IvUlBmRTBwRThvZz09#success).
 
 The special theme for this year is **subjectivity and disagreement in abusive language data**.
 We have a great line-up of invited speakers to discuss the theme.
@@ -58,7 +58,7 @@ Thursday, July 13th 2023. Toronto time. All sessions are in **Pier 7 & 8** unles
 
 15:30 - 16:15:  Coffee Break
 
-16:15 - 17:15:  **Panel Discussion** with all invited speakers
+16:15 - 17:15:  **Panel Discussion** with all invited speakers on **subjectivity and disagreement in abusive language data**
 
 17:15 - 17:25:  Closing Remarks
 
