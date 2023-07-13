@@ -6,7 +6,7 @@ rank: 4
 
 ## <span style="color:#267CB9"> Schedule </span>
 
-Thursday, July 13th 2023. Toronto time. All sessions are in **Room X** unless indicated otherwise.
+Thursday, July 13th 2023. Toronto time. All sessions are in **PIER 7&8** unless indicated otherwise.
 
 09:00 - 09:15:  Opening Remarks
 
