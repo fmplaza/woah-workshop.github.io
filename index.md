@@ -2,6 +2,16 @@
 layout: default
 ---
 
+## Post-ACL Update
+
+Thank you to our speakers, attendees, authors, reviewers, sponsors, and to everyone else who helped make WOAH 2023 such a fun and successful event.
+We hope to see you all again next year!
+
+If you would like to access the slides from the invited talks and lightning talks, you can find them [here](https://drive.google.com/drive/folders/1-4i4rcUdWlMlA-wAVxWo6yeN5_j2E4Dz?usp=sharing).
+
+<br/><br/>
+
+
 ## Overview
 
 The 7th Workshop on Online Abuse and Harms (WOAH) is taking place on **Thursday, July 13th 2023**, as part of [ACL 2023](https://2023.aclweb.org/) in Toronto.
