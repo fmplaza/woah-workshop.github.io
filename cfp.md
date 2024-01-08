@@ -5,15 +5,15 @@ rank: 1
 ---
 
 # Important Dates
-*Submission due*: 		May 9, 2023
+*Submission due*: 		March 10, 2024
 
-*ARR reviewed submission due*: May 22, 2023
+*ARR reviewed submission due*: April 7, 2024
 
-*Notification of acceptance*:       May 26, 2023
+*Notification of acceptance*:       April 14, 2024
 
-*Camera-ready papers due*: 	Jun 2, 2023
+*Camera-ready papers due*: 	April 24, 2024
 
-*Workshop*: 			July 13, 2023
+*Workshop*: 			June 20-21, 2024
 
 # Overview
 
@@ -32,7 +32,7 @@ In addition, we invite submissions related to the theme for this seventh edition
 # Submission
 
 Submission is electronic, using the Softconf START conference management system.
-Submission link: [https://softconf.com/acl2023/WOAH](https://softconf.com/acl2023/WOAH/)
+Submission link: [https://softconf.com/acl2023/WOAH](https://softconf.com/naacl2024/WOAH/)
 The workshop will accept three types of papers.
 1. **Academic Papers (long and short)**: Long papers of up to 8 pages, excluding references, and short papers of up to 4 pages, excluding references. Unlimited pages for references and appendices. Accepted papers will be given an additional page of content to address reviewer comments. Previously published papers cannot be accepted.
 2. **Non-Archival Submissions**: Up to 2 pages, excluding references, to summarise and showcase in-progress work and work  published elsewhere.
