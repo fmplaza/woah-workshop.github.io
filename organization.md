@@ -10,11 +10,14 @@ rank: 2
 
 * [Yi-Ling Chung](https://yilingchung.github.io/), The Alan Turing Institute
 
-* [Aida Mostafazadeh Davani](https://aidamd.github.io/), Google Research
-
 * [Debora Nozza](https://deboranozza.com/), Bocconi University
 
-* [Zeerak Talat](https://zeeraktalat.github.io/), Digital Democracies Institute, Simon Fraser University
+* [Aida Mostafazadeh Davani](https://aidamd.github.io/), Google Research
 
+* [Agostina Calabrese](https://ago3.github.io/), University of Edinburgh
+
+* [Flor Miriam Plaza-del-Arco](https://fmplaza.github.io/), Bocconi University
+
+* [Zeerak Talat](https://zeeraktalat.github.io/), MBZUAI
 
 Contact: [organizers@workshopononlineabuse.com](mailto:organizers@workshopononlineabuse.com)
