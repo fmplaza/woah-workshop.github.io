@@ -9,6 +9,8 @@ The 8th Workshop on Online Abuse and Harms (WOAH) is taking place on **June 20-2
 
 The special theme for this year is **Online Harms in the Age of Large Language Models**.
 
+The full Call for Papers can be found [here](https://www.workshopononlineabuse.com/cfp.html).
+
 <br/><br/>
 
 ## Important Dates
