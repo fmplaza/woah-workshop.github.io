@@ -13,7 +13,7 @@ rank: 1
 
 *Camera-ready papers due*: 	April 24, 2024
 
-*Workshop*: 			June 21-22, 2024
+*Workshop*: 			June 20-21, 2024
 
 # Overview
 
