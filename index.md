@@ -11,6 +11,8 @@ The special theme for this year is **Online Harms in the Age of Large Language M
 
 The full Call for Papers can be found [here](https://www.workshopononlineabuse.com/cfp.html).
 
+To submit your paper please use this [submission link](https://softconf.com/naacl2024/WOAH2024/manager/scmd.cgi?scmd=submitPaperCustom&pageid=0&isPreview=yes).
+
 <br/><br/>
 
 ## Important Dates
