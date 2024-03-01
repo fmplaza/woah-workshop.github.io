@@ -14,7 +14,7 @@ The full Call for Papers can be found [here](https://www.workshopononlineabuse.c
 <br/><br/>
 
 ## Important Dates
-- Paper submission deadline to softconf: **March 10th, 2024**<br/>
+- Paper submission deadline to softconf: <s>March 10th, 2024</s> ** March 17th, 2024 **<br/>
 - Notification of acceptance: April 14th, 2024<br/>
 - Camera-ready papers due: April 24th 2024<br/>
 - Workshop dates: June 20-21, 2024<br/>
