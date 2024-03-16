@@ -11,12 +11,12 @@ The special theme for this year is **Online Harms in the Age of Large Language M
 
 The full Call for Papers can be found [here](https://www.workshopononlineabuse.com/cfp.html).
 
-To submit your paper please use this [submission link](https://softconf.com/naacl2024/WOAH2024/manager/scmd.cgi?scmd=submitPaperCustom&pageid=0&isPreview=yes).
+To submit your paper please use this [submission link](https://softconf.com/naacl2024/WOAH2024/).
 
 <br/><br/>
 
 ## Important Dates
-- Paper submission deadline to softconf: <s>March 10th</s> **March 17th, 2024**<br/>
+- Paper submission deadline to softconf: <s>March 10th</s> **March 18th, 2024 23:59 Anywhere on Earth**<br/>
 - Notification of acceptance: April 14th, 2024<br/>
 - Camera-ready papers due: April 24th 2024<br/>
 - Workshop dates: June 20-21, 2024<br/>
