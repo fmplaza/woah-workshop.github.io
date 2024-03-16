@@ -5,7 +5,7 @@ rank: 1
 ---
 
 # Important Dates
-*Submission due*: 		March 17, 2024
+*Submission due*: 		March 18, 2024 23:59 Anywhere on Earth
 
 *ARR reviewed submission due*: April 7, 2024
 
