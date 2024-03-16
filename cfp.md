@@ -31,7 +31,7 @@ In addition, we invite submissions related to the theme for this eighth edition 
 
 # Submission
 
-Submission is electronic, using the Softconf START conference management system - [submission link](https://softconf.com/naacl2024/WOAH2024/).
+Submission is electronic, using the Softconf START conference management system - [submission link](https://softconf.com/naacl2024/WOAH2024).
 
 The workshop will accept three types of papers.
 1. **Academic Papers (long and short)**: Long papers of up to 8 pages, excluding references, and short papers of up to 4 pages, excluding references. Unlimited pages for references and appendices. Accepted papers will be given an additional page of content to address reviewer comments. Previously published papers cannot be accepted.
