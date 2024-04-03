@@ -5,7 +5,7 @@ title: index
 
 ## Overview
 
-The 8th Workshop on Online Abuse and Harms (WOAH) is taking place on **June 20-21 2024**, as part of [NAACL 2024](https://2024.naacl.org/) in Mexico City.
+The 8th Workshop on Online Abuse and Harms (WOAH) is taking place on **June 20 2024**, as part of [NAACL 2024](https://2024.naacl.org/) in Mexico City.
 
 The special theme for this year is **Online Harms in the Age of Large Language Models**.
 
@@ -19,7 +19,7 @@ To submit your paper please use this [submission link](https://softconf.com/naac
 - Paper submission deadline to softconf: <s>March 10th</s> **March 18th, 2024 23:59 Anywhere on Earth**<br/>
 - Notification of acceptance: April 14th, 2024<br/>
 - Camera-ready papers due: April 24th 2024<br/>
-- Workshop dates: June 20-21, 2024<br/>
+- Workshop dates: June 20, 2024<br/>
 <br/><br/>
 
 ## Organisers
